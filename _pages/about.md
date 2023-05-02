@@ -25,7 +25,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 
 # 📚 Publications 
 
-- A Generalization of ViT/MLP-Mixer to Graphs [\[pdf\]](https://arxiv.org/pdf/2212.13350.pdf) [\[code\]](https://github.com/XiaoxinHe/Graph-MLPMixer) ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
+- A Generalization of ViT/MLP-Mixer to Graphs [\[pdf\]](https://arxiv.org/pdf/2212.13350.pdf) [\[slides\]](https://www.dropbox.com/s/2mnaiiq295bo98a/talk_IPAM_DL_molecules_25jan23.pdf) [\[talk\]](https://www.youtube.com/watch?v=RqIK_hKQYnM) [\[code\]](https://github.com/XiaoxinHe/Graph-MLPMixer) ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
   - ***Xiaoxin He**, Bryan Hooi, Thomas Laurent, Adam Perold, Yann LeCun, Xavier Bresson*
   - *International Conference on Machine Learning (ICML) 2023*
 - Large-scale deep learning optimizations: A comprehensive survey [\[pdf\]](https://arxiv.org/pdf/2111.00856.pdf)
