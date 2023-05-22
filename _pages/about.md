@@ -41,7 +41,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 # 🧱 Experience
 - *2021.03 - 2021.06*, Intern, Bilibili, Shanghai, China
 - *2020.07 - 2020.09*, Intern, Huawei Technologies Co., Ltd, Shanghai, China
-- *2020.01 - 2020.03*, Visiting Student (advised by Prof. [Pan Hui](https://www.cse.ust.hk/~panhui/)), University of Helsinki, Helsinki, Finland
+- *2020.01 - 2020.03*, Visiting Student (advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html)), University of Helsinki, Helsinki, Finland
 
 
 # 👩‍🏫 Teaching
