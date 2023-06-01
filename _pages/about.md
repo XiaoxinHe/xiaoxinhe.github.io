@@ -24,7 +24,8 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 
 
 # 📚 Publications 
-
+- Explanations as Features: LLM-Based Features for Text-Attributed Graphs [\[pdf\]](https://arxiv.org/pdf/2305.19523.pdf) [\[code\]](https://github.com/XiaoxinHe/TAPE) ![](https://img.shields.io/github/stars/xiaoxinhe/TAPE?style=social)
+  - ***Xiaoxin He**, Xavier Bresson, Thomas Laurent, Bryan Hooi*
 - A Generalization of ViT/MLP-Mixer to Graphs [\[pdf\]](https://arxiv.org/pdf/2212.13350.pdf) [\[slides\]](https://www.dropbox.com/s/2mnaiiq295bo98a/talk_IPAM_DL_molecules_25jan23.pdf) [\[talk\]](https://www.youtube.com/watch?v=RqIK_hKQYnM) [\[code\]](https://github.com/XiaoxinHe/Graph-MLPMixer) ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
   - ***Xiaoxin He**, Bryan Hooi, Thomas Laurent, Adam Perold, Yann LeCun, Xavier Bresson*
   - *International Conference on Machine Learning (ICML) 2023*
@@ -32,7 +33,6 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
   - ***Xiaoxin He**, Fuzhao Xue, Xiaozhe Ren, Yang You*
 - One student knows all experts know: From sparse to dense [\[pdf\]](https://arxiv.org/pdf/2201.10890.pdf)
   - *Fuzhao Xue, **Xiaoxin He**, Xiaozhe Ren, Yuxuan Lou, Yang You*
-
 
 # 📖 Education
 - *2021.08 - Present*, PhD student in the School of Computing, National University of Singapore, Singapore
