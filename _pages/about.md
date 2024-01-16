@@ -25,6 +25,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 # Publications
 - Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning [\[pdf\]](https://arxiv.org/pdf/2305.19523.pdf) [\[code\]](https://github.com/XiaoxinHe/TAPE) ![](https://img.shields.io/github/stars/xiaoxinhe/TAPE?style=social)
   - ***Xiaoxin He**, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi*
+  - *International Conference on Learning Representations (ICLR) 2024*
 - A Generalization of ViT/MLP-Mixer to Graphs [\[pdf\]](https://arxiv.org/pdf/2212.13350.pdf) [\[slides\]](https://www.dropbox.com/s/2mnaiiq295bo98a/talk_IPAM_DL_molecules_25jan23.pdf) [\[talk\]](https://www.youtube.com/watch?v=RqIK_hKQYnM) [\[code\]](https://github.com/XiaoxinHe/Graph-MLPMixer) ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
   - ***Xiaoxin He**, Bryan Hooi, Thomas Laurent, Adam Perold, Yann LeCun, Xavier Bresson*
   - *International Conference on Machine Learning (ICML) 2023*
@@ -35,7 +36,8 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 
 
 # News
-- [*2023.12*] Our proposed workshop on [Graph Foundation Models](https://www.www24gfm.com/) has been accepted at TheWeb 2024 as a full-day workshop.
+- [*2024.01*] One paper accepted to ICLR 2024.
+- [*2023.12*] Our workshop on [Graph Foundation Models](https://www.www24gfm.com/) got accepted at TheWeb 2024 as a full-day workshop.
 - [*2023.06*] Introduced [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ![](https://img.shields.io/github/stars/xiaoxinhe/Awesome-Graph-LLM?style=social), a collection of awesome things about graph-related large language models.
 
 
