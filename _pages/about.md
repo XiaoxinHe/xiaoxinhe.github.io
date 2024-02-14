@@ -23,6 +23,8 @@ I am a third-year Ph.D. student in the School of Computing at National Universit
 Before joining NUS, I received my B.S. in the School of Computer Science at Fudan University, supervised by Prof. [Yang Chen](https://chenyang03.wordpress.com/).
 
 # Publications
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [\[pdf\]](https://arxiv.org/pdf/2402.07630.pdf) [\[code\]](https://github.com/XiaoxinHe/G-Retriever) ![](https://img.shields.io/github/stars/XiaoxinHe/G-Retriever?style=social)
+ - ***Xiaoxin He**, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi*
 - Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning [\[pdf\]](https://arxiv.org/pdf/2305.19523.pdf) [\[code\]](https://github.com/XiaoxinHe/TAPE) ![](https://img.shields.io/github/stars/xiaoxinhe/TAPE?style=social)
   - ***Xiaoxin He**, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi*
   - *International Conference on Learning Representations (ICLR) 2024*
