@@ -18,23 +18,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a third-year Ph.D. student in the School of Computing at National University of Singapore (NUS), jointly supervised by Prof. [Bryan Hooi](http://bhooi.github.io/) and Prof. [Xavier Bresson](https://graphdeeplearning.github.io/authors/xavier-bresson/). My research interests primary focus on deep learning on graphs.
+I am a Ph.D. student in the School of Computing at National University of Singapore (NUS), jointly advised by [Prof. Bryan Hooi](http://bhooi.github.io/) and [Prof. Xavier Bresson](https://www.linkedin.com/in/xavier-bresson-738585b/). My research interests primary focus on deep learning on graphs.
 
-Before joining NUS, I received my B.S. in the School of Computer Science at Fudan University, supervised by Prof. [Yang Chen](https://chenyang03.wordpress.com/).
+Before joining NUS, I received my B.S. in the School of Computer Science at Fudan University, supervised by [Prof. Yang Chen](https://chenyang03.wordpress.com/).
 
 # Publications
-- G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [\[pdf\]](https://arxiv.org/pdf/2402.07630.pdf) [\[code\]](https://github.com/XiaoxinHe/G-Retriever) ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever?style=social)
-  - ***Xiaoxin He**, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi*
-- Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning [\[pdf\]](https://arxiv.org/pdf/2305.19523.pdf) [\[code\]](https://github.com/XiaoxinHe/TAPE) ![](https://img.shields.io/github/stars/xiaoxinhe/TAPE?style=social)
-  - ***Xiaoxin He**, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi*
-  - *International Conference on Learning Representations (ICLR) 2024*
-- A Generalization of ViT/MLP-Mixer to Graphs [\[pdf\]](https://arxiv.org/pdf/2212.13350.pdf) [\[slides\]](https://www.dropbox.com/s/2mnaiiq295bo98a/talk_IPAM_DL_molecules_25jan23.pdf) [\[talk\]](https://www.youtube.com/watch?v=RqIK_hKQYnM) [\[code\]](https://github.com/XiaoxinHe/Graph-MLPMixer) ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
-  - ***Xiaoxin He**, Bryan Hooi, Thomas Laurent, Adam Perold, Yann LeCun, Xavier Bresson*
-  - *International Conference on Machine Learning (ICML) 2023*
-- Large-scale deep learning optimizations: A comprehensive survey [\[pdf\]](https://arxiv.org/pdf/2111.00856.pdf)
-  - ***Xiaoxin He**, Fuzhao Xue, Xiaozhe Ren, Yang You*
-- One student knows all experts know: From sparse to dense [\[pdf\]](https://arxiv.org/pdf/2201.10890.pdf)
-  - *Fuzhao Xue, **Xiaoxin He**, Xiaozhe Ren, Yuxuan Lou, Yang You*
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
+  - <u>Xiaoxin He</u>, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
+  - arXiv'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever?style=social)
+
+- Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning
+  - <u>Xiaoxin He</u>, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi
+  - ICLR'24 \[[Paper](https://arxiv.org/pdf/2305.19523.pdf)\|[Code](https://github.com/XiaoxinHe/TAPE)\] ![](https://img.shields.io/github/stars/xiaoxinhe/TAPE?style=social)
+
+- A Generalization of ViT/MLP-Mixer to Graphs
+  - <u>Xiaoxin He</u>, Bryan Hooi, Thomas Laurent, Adam Perold, Yann LeCun, Xavier Bresson
+  - ICML'23 \[[Paper](https://arxiv.org/pdf/2212.13350.pdf)\|[Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24767.png?t=1689417497.1581755)\|[Code](https://github.com/XiaoxinHe/Graph-MLPMixer)\] ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
+
+- Large-Scale Deep Learning Optimizations: A Comprehensive Survey
+  - <u>Xiaoxin He</u>, Fuzhao Xue, Xiaozhe Ren, Yang You
+  - arXiv'21 [\[Paper\]](https://arxiv.org/pdf/2111.00856.pdf)
 
 
 # News
