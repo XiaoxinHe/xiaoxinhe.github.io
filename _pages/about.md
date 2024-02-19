@@ -25,7 +25,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 # Publications
 - G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
   - <u>Xiaoxin He</u>, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
-  - arXiv'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever?style=social)
+  - arXiv'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
 
 - Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning
   - <u>Xiaoxin He</u>, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi
