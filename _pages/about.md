@@ -25,11 +25,11 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 # Publications
 - G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
   - <u>Xiaoxin He</u>, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
-  - arXiv'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
+  - arXiv'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
 
 - Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning
   - <u>Xiaoxin He</u>, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi
-  - ICLR'24 \[[Paper](https://arxiv.org/pdf/2305.19523.pdf)\|[Code](https://github.com/XiaoxinHe/TAPE)\] ![](https://img.shields.io/github/stars/xiaoxinhe/TAPE?style=social)
+  - ICLR'24 \[[Paper](https://arxiv.org/pdf/2305.19523.pdf)\|[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202024/18640.png?t=1709639809.8233728)\|[Code](https://github.com/XiaoxinHe/TAPE)\] ![](https://img.shields.io/github/stars/xiaoxinhe/TAPE?style=social)
 
 - A Generalization of ViT/MLP-Mixer to Graphs
   - <u>Xiaoxin He</u>, Bryan Hooi, Thomas Laurent, Adam Perold, Yann LeCun, Xavier Bresson
@@ -50,10 +50,10 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 - *2021.08 - Present*, PhD student in the School of Computing, National University of Singapore, Singapore
 - *2017.09 - 2021.06*, Undergraduate in the School of Computer Science, Fudan University, Shanghai, China
 
-# Experience
+<!-- # Experience
 - *2021.03 - 2021.06*, Intern, Bilibili, Shanghai, China
 - *2020.07 - 2020.09*, Intern, Huawei Technologies Co., Ltd, Shanghai, China
-- *2020.01 - 2020.03*, Visiting Student (advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html)), University of Helsinki, Helsinki, Finland
+- *2020.01 - 2020.03*, Visiting Student (advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html)), University of Helsinki, Helsinki, Finland -->
 
 
 # Teaching

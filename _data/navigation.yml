@@ -11,8 +11,8 @@ main:
     url: "/#-education"
 
 
-  - title: "Experience"
-    url: "/#-experience"
+  # - title: "Experience"
+  #   url: "/#-experience"
 
   - title: "Teaching"
     url: "/#-teaching"
