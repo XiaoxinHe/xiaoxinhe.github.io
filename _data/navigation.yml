@@ -4,16 +4,14 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
+  - title: "News"
+    url: "/#news"
 
   - title: "Education"
-    url: "/#-education"
-
-
-  # - title: "Experience"
-  #   url: "/#-experience"
+    url: "/#education"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
 
