@@ -22,7 +22,7 @@ I am a Ph.D. student in the School of Computing at National University of Singap
 
 Before joining NUS, I received my B.S. in the School of Computer Science at Fudan University, supervised by [Prof. Yang Chen](https://chenyang03.wordpress.com/).
 
-# Publications
+# Selected Publications
 - G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
   - <u>Xiaoxin He</u>, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
   - arXiv'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
@@ -40,9 +40,10 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
   - arXiv'21 [\[Paper\]](https://arxiv.org/pdf/2111.00856.pdf)
 
 
-# News
+# Recent News
+- [*2024.05*] Invited by ByteDance to give a talk on [G-Retriever](https://arxiv.org/pdf/2402.07630.pdf) (hosted by [Chen Cheng](https://www.linkedin.com/in/chen-cheng-sg/)).
 - [*2024.01*] One paper accepted to ICLR 2024.
-- [*2023.12*] Our workshop on [Graph Foundation Models](https://www.www24gfm.com/) got accepted at TheWeb 2024 as a full-day workshop.
+- [*2023.12*] Our workshop on [Graph Foundation Models](https://www.www24gfm.com/) got accepted at the WebConf 2024 as a full-day workshop.
 - [*2023.06*] Introduced [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ![](https://img.shields.io/github/stars/xiaoxinhe/Awesome-Graph-LLM?style=social), a collection of awesome things about graph-related large language models.
 
 
