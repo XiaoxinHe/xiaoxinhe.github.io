@@ -25,7 +25,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 # Selected Publications
 - G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
   - <u>Xiaoxin He</u>, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
-  - arXiv'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
+  - NeurIPS'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
 
 - Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning
   - <u>Xiaoxin He</u>, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi
@@ -41,6 +41,8 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 
 
 # Recent News
+- [*2024.09*] One paper accepted to NeurIPS 2024.
+- [*2024.07*] Invited by [LOGG](https://portal.valencelabs.com/logg) to give a talk on [G-Retriever](https://arxiv.org/pdf/2402.07630.pdf) (hosted by [Hannes Stärk](https://hannes-stark.com/) and [Dominique Beaini](https://www.linkedin.com/in/dbeaini/)).
 - [*2024.05*] Invited by ByteDance to give a talk on [G-Retriever](https://arxiv.org/pdf/2402.07630.pdf) (hosted by [Chen Cheng](https://www.linkedin.com/in/chen-cheng-sg/)).
 - [*2024.01*] One paper accepted to ICLR 2024.
 - [*2023.12*] Our workshop on [Graph Foundation Models](https://www.www24gfm.com/) got accepted at the WebConf 2024 as a full-day workshop.
