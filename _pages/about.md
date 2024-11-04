@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a Ph.D. student in the School of Computing at National University of Singapore (NUS), jointly advised by [Prof. Bryan Hooi](http://bhooi.github.io/) and [Prof. Xavier Bresson](https://www.linkedin.com/in/xavier-bresson-738585b/). My research interests primary focus on deep learning on graphs.
+I am a Ph.D. student in the School of Computing at National University of Singapore (NUS), jointly advised by [Prof. Bryan Hooi](http://bhooi.github.io/) and [Prof. Xavier Bresson](https://scholar.google.com/citations?user=9pSK04MAAAAJ&hl=en). My research interests primary focus on deep learning on graphs.
 
 Before joining NUS, I received my B.S. in the School of Computer Science at Fudan University, supervised by [Prof. Yang Chen](https://chenyang03.wordpress.com/).
 
@@ -42,6 +42,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 
 # Recent News
 - [*2024.09*] One paper accepted to NeurIPS 2024.
+- [*2024.07*] New family member -- I have an adorable [kitten](images/baobao.png)!!!
 - [*2024.07*] Invited by [LOGG](https://portal.valencelabs.com/logg) to give a talk on [G-Retriever](https://arxiv.org/pdf/2402.07630.pdf) (hosted by [Hannes Stärk](https://hannes-stark.com/) and [Dominique Beaini](https://www.linkedin.com/in/dbeaini/)).
 - [*2024.05*] Invited by ByteDance to give a talk on [G-Retriever](https://arxiv.org/pdf/2402.07630.pdf) (hosted by [Chen Cheng](https://www.linkedin.com/in/chen-cheng-sg/)).
 - [*2024.01*] One paper accepted to ICLR 2024.
