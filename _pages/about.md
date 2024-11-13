@@ -25,7 +25,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 # Selected Publications
 - G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
   - <u>Xiaoxin He</u>, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
-  - NeurIPS'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
+  - NeurIPS'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95524.png?t=1731391325.8258104)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
 
 - Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning
   - <u>Xiaoxin He</u>, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi
@@ -41,7 +41,7 @@ Before joining NUS, I received my B.S. in the School of Computer Science at Fuda
 
 
 # Recent News
-- [*2024.10*] Invited by Spanner Graph at Google to give a talk on GraphRAG (hosted by [Bei Li](https://www.linkedin.com/in/bei-li/)).
+- [*2024.11*] Invited by Spanner Graph at Google to give a talk on GraphRAG (hosted by [Bei Li](https://www.linkedin.com/in/bei-li/)).
 - [*2024.09*] One paper accepted to NeurIPS 2024.
 - [*2024.07*] New family member -- I have an adorable [kitten](images/baobao.png)!!!
 - [*2024.07*] Invited by [LOGG](https://portal.valencelabs.com/logg) to give a talk on [G-Retriever](https://arxiv.org/pdf/2402.07630.pdf) (hosted by [Hannes Stärk](https://hannes-stark.com/) and [Dominique Beaini](https://www.linkedin.com/in/dbeaini/)).
