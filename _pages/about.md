@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a Ph.D. student in the School of Computing at National University of Singapore (NUS), jointly advised by [Prof. Bryan Hooi](http://bhooi.github.io/) and [Prof. Xavier Bresson](https://scholar.google.com/citations?user=9pSK04MAAAAJ&hl=en). My research interests primary focus on deep learning on graphs. I am honored to be a recipient of the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024).
+I am a Ph.D. student in the School of Computing at National University of Singapore (NUS), jointly advised by [Prof. Bryan Hooi](http://bhooi.github.io/) and [Prof. Xavier Bresson](https://scholar.google.com/citations?user=9pSK04MAAAAJ&hl=en). My research interests primary focus on deep learning on graphs. My research is supported by the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024).
 
 Before joining NUS, I received my B.S. in the School of Computer Science at Fudan University, supervised by [Prof. Yang Chen](https://chenyang03.wordpress.com/).
 
