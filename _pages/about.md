@@ -50,11 +50,6 @@ My research interests primary focus on graph learning and large language models 
 
 
 
-
-# Education
-- *2021.08 - Present*, PhD student in the School of Computing, National University of Singapore, Singapore
-- *2017.09 - 2021.06*, Undergraduate in the School of Computer Science, Fudan University, Shanghai, China
-
 # Selected Awards
 - [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024) in machine intelligence, 2024
 - Dean’s Graduate Research Excellence Award, NUS SoC, 2024
