@@ -39,6 +39,7 @@ My research interests primary focus on graph learning and large language models 
 
 
 # Recent News
+- [*2025.01*] [LSCS](https://arxiv.org/pdf/2409.13265?) was accepted to TMLR.
 - [*2025.01*] Honored to receive the NUS SOC Dean's Graduate Research Excellence Award for S1, AY2024/2025.
 - [*2024.11*] Invited by Spanner Graph at Google to give a talk on GraphRAG (hosted by [Bei Li](https://www.linkedin.com/in/bei-li/)).
 - [*2024.09*] One paper accepted to NeurIPS 2024.
@@ -48,8 +49,7 @@ My research interests primary focus on graph learning and large language models 
 - [*2023.06*] Introduced [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ![](https://img.shields.io/github/stars/xiaoxinhe/Awesome-Graph-LLM?style=social), a collection of awesome things about graph-related large language models.
 
 
-# Professional Experience
-- *2024.08 -- 2024.12*, Applied Scientist Intern at Amazon.
+
 
 # Education
 - *2021.08 - Present*, PhD student in the School of Computing, National University of Singapore, Singapore
@@ -59,6 +59,9 @@ My research interests primary focus on graph learning and large language models 
 - [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024) in machine intelligence, 2024
 - Dean’s Graduate Research Excellence Award, NUS SoC, 2024
 - Research Achievement, NUS SoC, 2022 & 2023
+
+# Professional Experience
+- *2024.08 -- 2024.12*, Applied Scientist Intern at Amazon.
 
 # Professional Services
 - Reviewer: ICML'22, NeurIPS'23, NeurIPS'24, ICLR'24, ICLR'25
