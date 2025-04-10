@@ -26,7 +26,7 @@ My research interests primary focus on graph learning and large language models 
 # Selected Publications
 - G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
   - <u>Xiaoxin He</u>, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
-  - NeurIPS'24 \[[Paper](https://arxiv.org/pdf/2402.07630.pdf)\|[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95524.png?t=1731391325.8258104)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
+  - NeurIPS'24 \[[Paper](https://openreview.net/pdf?id=MPJ3oXtTZl)\|[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95524.png?t=1731391325.8258104)\|[Blog](https://t.co/JvddZq9xxo)\|[Code](https://github.com/XiaoxinHe/G-Retriever)\] ![](https://img.shields.io/github/stars/xiaoxinhe/G-Retriever)
 
 - Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning
   - <u>Xiaoxin He</u>, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi
@@ -39,15 +39,14 @@ My research interests primary focus on graph learning and large language models 
 
 
 # Recent News
+- [*2025.03*] Invited by [Riot Games](https://www.riotgames.com/en) to give a talk on GraphRAG.
+- [*2024.02*] Invited by [Glasgow IR Group](https://x.com/ZixuanYI_/status/1891504966017175991) to give a talk on GraphLLM.
 - [*2025.01*] [LSCS](https://arxiv.org/pdf/2409.13265?) was accepted to TMLR.
-- [*2025.01*] Honored to receive the NUS SOC Dean's Graduate Research Excellence Award for S1, AY2024/2025.
-- [*2024.11*] Invited by Spanner Graph at Google to give a talk on GraphRAG (hosted by [Bei Li](https://www.linkedin.com/in/bei-li/)).
+- [*2024.11*] Invited by Spanner Graph at Google to give a talk on GraphRAG
 - [*2024.09*] One paper accepted to NeurIPS 2024.
 - [*2024.08*] Honored to receive the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024) in machine intelligence!
 - [*2024.07*] New family member -- I have an adorable [kitten](images/baobao.png)!!!
 - [*2023.06*] Introduced [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ![](https://img.shields.io/github/stars/xiaoxinhe/Awesome-Graph-LLM?style=social), a collection of awesome things about graph-related large language models.
-
-
 
 # Selected Awards
 - [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024) in machine intelligence, 2024
