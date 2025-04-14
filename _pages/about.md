@@ -36,23 +36,18 @@ My research interests primary focus on graph learning and large language models 
   - <u>Xiaoxin He</u>, Bryan Hooi, Thomas Laurent, Adam Perold, Yann LeCun, Xavier Bresson
   - ICML'23 \[[Paper](https://arxiv.org/pdf/2212.13350.pdf)\|[Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24767.png?t=1689417497.1581755)\|[Code](https://github.com/XiaoxinHe/Graph-MLPMixer)\] ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
 
-
-
 # Recent News
 - [*2025.03*] Invited by [Riot Games](https://www.riotgames.com/en) to give a talk on GraphRAG.
 - [*2024.02*] Invited by [Glasgow IR Group](https://x.com/ZixuanYI_/status/1891504966017175991) to give a talk on GraphLLM.
 - [*2025.01*] [LSCS](https://arxiv.org/pdf/2409.13265?) was accepted to TMLR.
 - [*2024.11*] Invited by Spanner Graph at Google to give a talk on GraphRAG
-- [*2024.09*] One paper accepted to NeurIPS 2024.
-- [*2024.08*] Honored to receive the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024) in machine intelligence!
-- [*2024.07*] New family member -- I have an adorable [kitten](images/baobao.png)!!!
+- [*2024.07*] New family member -- I have an adorable [kitten](images/baobao.jpg)!!!
 - [*2023.06*] Introduced [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ![](https://img.shields.io/github/stars/xiaoxinhe/Awesome-Graph-LLM?style=social), a collection of awesome things about graph-related large language models.
 
 # Selected Awards
 - [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2024) in machine intelligence, 2024
 - [Dean’s Graduate Research Excellence Award](https://credentials.nus.edu.sg/f34c36f6-6140-4a7b-abcb-3e864e307bb7#acc.8ZpmTM9a), NUS SoC, 2024
 <!-- - [Research Achievement](https://credentials.nus.edu.sg/954d3b14-1ef0-4ad6-b11a-34e3bcac05dd#acc.d1ohHCw5), NUS SoC, 2022 & 2023 -->
-
 
 # Professional Services
 - Reviewer: ICML'22, NeurIPS'23, NeurIPS'24, ICLR'24, ICLR'25
