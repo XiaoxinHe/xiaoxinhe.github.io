@@ -37,6 +37,7 @@ My research interests primary focus on graph learning and large language models 
   - ICML'23 \[[Paper](https://arxiv.org/pdf/2212.13350.pdf)\|[Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24767.png?t=1689417497.1581755)\|[Code](https://github.com/XiaoxinHe/Graph-MLPMixer)\] ![](https://img.shields.io/github/stars/xiaoxinhe/Graph-MLPMixer?style=social)
 
 # Recent News
+- [*2025.05*] Two papers were accepted to ICML.
 - [*2025.03*] Invited by [Riot Games](https://www.riotgames.com/en) to give a talk on GraphRAG.
 - [*2024.02*] Invited by [Glasgow IR Group](https://x.com/ZixuanYI_/status/1891504966017175991) to give a talk on GraphLLM.
 - [*2025.01*] [LSCS](https://arxiv.org/pdf/2409.13265?) was accepted to TMLR.
@@ -50,9 +51,9 @@ My research interests primary focus on graph learning and large language models 
 <!-- - [Research Achievement](https://credentials.nus.edu.sg/954d3b14-1ef0-4ad6-b11a-34e3bcac05dd#acc.d1ohHCw5), NUS SoC, 2022 & 2023 -->
 
 # Professional Services
-- Reviewer: ICML'22, NeurIPS'23, NeurIPS'24, ICLR'24, ICLR'25
+- Reviewer: ICML'22, NeurIPS'23, NeurIPS'24, ICLR'24, ICLR'25, ICML'25
 - Organizer: [LoG'24](https://logconference.org/), LoG'25, [WWW'25 Workshop](https://www2024.thewebconf.org/program/workshops/)
 
-# Teaching
+<!-- # Teaching
 - *2022/2023 Semester 2*, Knowledge Discovery and Data Mining (CS5228)
-- *2022/2023 Semester 1*, Big Data Systems for Data Science (CS4225)
+- *2022/2023 Semester 1*, Big Data Systems for Data Science (CS4225) -->
